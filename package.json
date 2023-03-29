@@ -1,6 +1,11 @@
 {
   "name": "sphere-shader-threejs",
   "private": true,
+  "description": "一个漂亮的小球,基于shader和three.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WillemHia/sphere-shader-threejs"
+  },
   "version": "0.0.0",
   "type": "module",
   "scripts": {
