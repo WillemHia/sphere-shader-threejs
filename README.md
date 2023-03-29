@@ -7,6 +7,15 @@ npm run dev
 
 # images
 
+![markdown](https://github.com/WillemHia/sphere-shader-threejs/blob/main/public/demo1.png)
+
+![markdown](https://github.com/WillemHia/sphere-shader-threejs/blob/main/public/demo2.png)
+
+
+![markdown](https://github.com/WillemHia/sphere-shader-threejs/blob/main/public/demo3.png)
+
+![markdown](https://github.com/WillemHia/sphere-shader-threejs/blob/main/public/demo4.png)
+
 
 
 # demo
